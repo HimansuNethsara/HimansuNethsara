@@ -8,12 +8,6 @@
 
 - 🔭 I’m currently working on **Elite Wardrobe**
 
-- <h3 align="left">Projects:</h3>
-  <p align="left">
-    <a href="https://drive.google.com/drive/folders/1IVZQOuPDTOIUxv-HLjC5QxX_6lgtzKAg?usp=sharing" target="_blank">📁 Trendy Tech Website Resources on Google Drive</a>
-  </p>
-
-
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
