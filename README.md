@@ -81,14 +81,14 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="[LINKEDIN_URL]" target="https://www.linkedin.com/in/himansu-nethsara/">
+  <a href="https://www.linkedin.com/in/himansu-nethsara/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Himansu%20Ranasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/himansunethsara" target="https://github.com/HimansuNethsara">
+  <a href="https://github.com/HimansuNethsara" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-himansunethsara-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:himansunethsara2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-[YOUR_EMAIL]-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-himansunethsara2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
