@@ -15,12 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Pursuing **BSc (Hons) Software Engineering** at **JIAT / BCU**.
-💡 Fullstack software engineering undergraduate passionate about building **scalable, user-friendly applications**.
-🌐 Comfortable across the **frontend and backend** — from responsive web UIs to REST APIs and databases.
-📱 Interested in **mobile app development** with Java (Android).
-🛠️ Always learning, refining my craft, and shipping real projects.
-🎓 Also hold a **Diploma in Computer Network Engineering** (IDM Achievers International Campus) — giving me a solid grounding in networking and systems.
+- 🎓 Pursuing **BSc (Hons) Software Engineering** at **JIAT / BCU**.
+- 💡 Fullstack software engineering undergraduate passionate about building **scalable, user-friendly applications**.
+- 🌐 Comfortable across the **frontend and backend** — from responsive web UIs to REST APIs and databases.
+- 📱 Interested in **mobile app development** with Java (Android).
+- 🛠️ Always learning, refining my craft, and shipping real projects.
+- 🎓 Also hold a **Diploma in Computer Network Engineering** (IDM Achievers International Campus) — giving me a solid grounding in networking and systems.
 
 ---
 
